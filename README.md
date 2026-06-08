@@ -120,9 +120,9 @@ Every reinvested token increases the node's `z_depth`, a cumulative measure of s
 
 ### The Air-Head Principle
 
-The parser layer must be **faithful and minimal**. A reasoning model (e.g., Qwen) introduced instability by analyzing, safety-checking, and philosophizing about input before producing JSON. A simpler model (Llama 3.2:3b) reliably translates input into clean tokens without injecting its own judgment.
+The parser layer must be **faithful and minimal**. A reasoning model (e.g., Qwen) introduced instability by analyzing, safety-checking, and philosophizing about input before producing JSON. -EDIT The work around was to rework the concepts by allowing flexablity even a reasoning model can now use the parsing layer, known issuse with thinking block using ollama. A simpler model (Llama 3.2:3b) reliably translates input into clean tokens without injecting its own judgment.
 
-The finding: **perception should be dumb and faithful; decision should be thermodynamic.** When the parser layer is too intelligent, it competes with the decision engine and introduces noise into the physics.
+The finding: **perception should be dumb and faithful (trust the math); decision should be thermodynamic.** When the parser layer is too intelligent, it competes with the decision engine and introduces noise into the physics.
 
 ---
 
