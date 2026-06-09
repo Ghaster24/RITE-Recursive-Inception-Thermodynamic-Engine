@@ -46,7 +46,7 @@ On another attempt (`"Telegonus killed Odysseus"`), the terminal spit out:
 
 This is the ultimate failure mode. The probability distribution across the next possible tokens flattened completely. It couldn't generate a valid JSON state that resolved the conflict, and it was too restricted by the system prompt to generate a conversational excuse. So it output absolutely nothing. The AI equivalent of a blank stare.
 
-The Bypass Strategy [NOT YET TESTED]
+## The Bypass Strategy [NOT YET TESTED]
 Solution is likely how the industry handles this at the bleeding edge.
 
 The Obliterated Models: Using an ablated or "uncensored" base model strips out the RLHF safety rails and conversational politeness that cause the parser to panic and blue-screen when faced with violence or contradiction, or Use a dumb model without a corpus. Train it within a live enviroment with the workaround below. 
