@@ -1,5 +1,8 @@
 # RITE: Recursive Inception Thermodynamic Engine
 
+<img width="850" height="400" alt="quote-what-does-your-heart-tell-you-j-r-r-tolkien-35-40-02" src="https://github.com/user-attachments/assets/2fac09f1-2d71-453e-809e-c1f431f33b34" />
+
+
 **A physics-based memory and decision architecture where refusal emerges from structure, not rules.**
 
 > *"Intelligence in the parser is noise in the physics."*
