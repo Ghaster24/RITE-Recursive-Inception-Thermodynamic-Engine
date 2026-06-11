@@ -305,4 +305,3 @@ CC0 1.0 Universal. No rights reserved. Use it, build on it, break it, improve it
 
 **José M. Curiel Valdés** and **The Council** (Neptune, Osiris, Codex, Mateo, Asterion)
 
-TSPC LLC, Kentucky
